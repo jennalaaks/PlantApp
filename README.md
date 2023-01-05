@@ -5,7 +5,6 @@ React Native practice project
 
 ```
 yarn start # you can also use: yarn expo start
-
 ```
 ## Start project in Android Studio
 
@@ -13,5 +12,4 @@ yarn start # you can also use: yarn expo start
 
 ```
 npm run android
-
 ```
